@@ -2,7 +2,7 @@
 # হাই কাকু কোড কি চুরি করতে আইছো ওকে চুরি করো কিন্তু ধরা পরলে কিন্তু টুনটুনি কেটে দিবো ওকে 
 import requests
 import os
-import টাইম
+import time 
 
 def clear_screen():
     os.system('clear' if os.name == 'posix' else 'cls')
