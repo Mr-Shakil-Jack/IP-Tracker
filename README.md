@@ -24,6 +24,7 @@ apt update
 apt upgrade
 apt install python
 pip install requests
+apt install git
 git clone https://github.com/Mr-Shakil-Jack/IP-Tracker.git
 cd IP-Tracker
 python ip-tracker.py
@@ -36,6 +37,7 @@ python ip-tracker.py
 sudo apt update
 sudo apt install python3
 pip3 install requests
+apt install git
 git clone https://github.com/Mr-Shakil-Jack/IP-Tracker.git
 cd IP-Tracker
 python3 ip-tracker.py
