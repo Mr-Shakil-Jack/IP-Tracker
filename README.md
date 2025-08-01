@@ -27,7 +27,7 @@ pip install requests
 apt install git
 git clone https://github.com/Mr-Shakil-Jack/IP-Tracker.git
 cd IP-Tracker
-python ip-tracker.py
+python Ip_Tracker.py
 ```
 
 
@@ -40,7 +40,7 @@ pip3 install requests
 apt install git
 git clone https://github.com/Mr-Shakil-Jack/IP-Tracker.git
 cd IP-Tracker
-python3 ip-tracker.py
+python3 Ip_Tracker.py
 ```
 
 
